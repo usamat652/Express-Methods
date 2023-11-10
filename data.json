@@ -1,0 +1,143 @@
+[
+    {
+      "name": "John Doe",
+      "age": 28,
+      "profession": "Engineer",
+      "contact_no": "123-456-7890",
+      "gender": "Male"
+    },
+    {
+      "name": "Jane Smith",
+      "age": 25,
+      "profession": "Teacher",
+      "contact_no": "987-654-3210",
+      "gender": "Female"
+    },
+    {
+      "name": "Michael Johnson",
+      "age": 32,
+      "profession": "Doctor",
+      "contact_no": "555-555-5555",
+      "gender": "Male"
+    },
+    {
+      "name": "Emily Brown",
+      "age": 29,
+      "profession": "Designer",
+      "contact_no": "111-222-3333",
+      "gender": "Female"
+    },
+    {
+      "name": "William Lee",
+      "age": 35,
+      "profession": "Lawyer",
+      "contact_no": "777-888-9999",
+      "gender": "Male"
+    },
+    {
+      "name": "Olivia White",
+      "age": 26,
+      "profession": "Writer",
+      "contact_no": "444-444-4444",
+      "gender": "Female"
+    },
+    {
+      "name": "James Taylor",
+      "age": 31,
+      "profession": "Chef",
+      "contact_no": "666-666-6666",
+      "gender": "Male"
+    },
+    {
+      "name": "Ava Johnson",
+      "age": 27,
+      "profession": "Nurse",
+      "contact_no": "999-999-9999",
+      "gender": "Female"
+    },
+    {
+      "name": "Alexander Wilson",
+      "age": 30,
+      "profession": "Architect",
+      "contact_no": "123-123-1234",
+      "gender": "Male"
+    },
+    {
+      "name": "Sophia Hall",
+      "age": 28,
+      "profession": "Artist",
+      "contact_no": "567-567-5678",
+      "gender": "Female"
+    },
+    {
+      "name": "Benjamin Turner",
+      "age": 34,
+      "profession": "Pilot",
+      "contact_no": "987-987-9876",
+      "gender": "Male"
+    },
+    {
+      "name": "Mia Green",
+      "age": 29,
+      "profession": "Scientist",
+      "contact_no": "111-222-3333",
+      "gender": "Female"
+    },
+    {
+      "name": "Henry Adams",
+      "age": 33,
+      "profession": "Entrepreneur",
+      "contact_no": "123-456-7890",
+      "gender": "Male"
+    },
+    {
+      "name": "Amelia Martinez",
+      "age": 26,
+      "profession": "Software Developer",
+      "contact_no": "555-555-5555",
+      "gender": "Female"
+    },
+    {
+      "name": "Daniel Clark",
+      "age": 31,
+      "profession": "Musician",
+      "contact_no": "123-123-1234",
+      "gender": "Male"
+    },
+    {
+      "name": "Ella Garcia",
+      "age": 28,
+      "profession": "Marketing Manager",
+      "contact_no": "777-888-9999",
+      "gender": "Female"
+    },
+    {
+      "name": "Liam Hall",
+      "age": 29,
+      "profession": "Consultant",
+      "contact_no": "444-444-4444",
+      "gender": "Male"
+    },
+    {
+      "name": "Charlotte Turner",
+      "age": 30,
+      "profession": "Teacher",
+      "contact_no": "666-666-6666",
+      "gender": "Female"
+    },
+    {
+      "name": "Logan Anderson",
+      "age": 27,
+      "profession": "Accountant",
+      "contact_no": "999-999-9999",
+      "gender": "Male"
+    },
+    {
+      "name": "Harper Wright",
+      "age": 26,
+      "profession": "Graphic Designer",
+      "contact_no": "567-567-5678",
+      "gender": "Female"
+    }
+  ]
+  
